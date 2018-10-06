@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>Sefa Dedebek</title>
+
+
+</head>
+
+<body bgcolor="grey" >
+
+<table width="1000" height="100" border="1" align="center" bgcolor="white" cellpadding="6"  >
+<tr>
+<td colspan="5" height="150" ><img src="img/logo.jpg"/ ></td>
+</tr>
+<tr height="5">
+<td align="center"><a href="index.html"><font size="">ANASAYFA</font></a></td>
+<td align="center"><a href="ogrenim.html">ÖĞRENİM</a></td><td align="center"><a href="projeler.html">PROJELER</a></td>
+<td align="center"><a href="iletisim.html">İLETİŞİM</a></td>
+</tr>
+<tr>
+<td        valign="top"   height="900" colspan="5" > 
+
+Ben Sefa Dedebek.
+ 1997 yılında Erzincan'da doğdum. Aslen Artvin'liyim. Güvenlik İlkokulu, Müşir Zeki Paşa Ortaokulu ve Erzincan Fen Lisesi mezunuyum. Gazi Üniversitesi Bilgisayar Mühendisliği Bölümü 1. Sınıf Öğrencisiyim.
+
+
+
+ </td>
+</tr>
+</table>
+
+<table                                    align="center"  >
+<tr>
+<td align="center">  
+
+
+
+
+
+
+</td>
+
+</tr>
+</table>
+
+
+</body>
+
+<center>
+
+<a href="https://www.facebook.com/sdedebek" target="_blank"><img    width="50" height="50"    src="img/f1.png" title="Facebook"/></a>
+
+<a href="https://twitter.com/sefadedebek" target="_blank"><img   width="50" height="50"     src="img/t1.png" title="Twitter"/></a>
+
+<a href="https://www.instagram.com/sefadedebek/" target="_blank"><img   width="50" height="50"     src="img/i1.png" title="Instagram"/></a>
+
+<a href="https://www.youtube.com" target="_blank"><img     width="50" height="50"   src="img/y1.png" title="YouTube"/></a>
+
+
+</center>
+
+</html>
